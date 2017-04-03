@@ -1,0 +1,64 @@
+{
+  "composers": [
+    {
+    	"id": 1,
+    	"name": "Philip Glass",
+    	"genre": "Minimal music",
+    	"bio": {
+    		"birth": "1937-01-31",
+    		"place": "Baltimore"
+    	},
+    	"compositions": [
+    		{"name": "Glassworks", "year": 1982},
+    		{"name": "The Witches of Venice", "year": 1997},
+    		{"name": "Tirol, for piano and string orchestra", "year": 2000}
+    	],
+    	"image": "https://ladyfancifull.files.wordpress.com/2015/10/philip-glass.jpg"
+    },
+    {
+    	"id": 2,
+    	"name": "Steve Reich",
+    	"genre": "Minimal music",
+    	"bio": {
+    		"birth": "1936-10-03",
+    		"place": "New York"
+    	},
+    	"compositions": [
+    		{"name": "Drumming", "year": 1971},
+    		{"name": "Music for 18 Musicians", "year": 1976},
+    		{"name": "Double Sextet", "year": 2008}
+    	],
+    	"image": "http://cdn.quotationof.com/images/steve-reich-1.jpg"
+    },
+    {
+    	"id": 3,
+    	"name": "Pierre Henry",
+    	"genre": "Electroacoustic music",
+    	"bio": {
+    		"birth": "1927-12-09",
+    		"place": "Paris"
+    	},
+    	"compositions": [
+    		{"name": "Messe pour le temps présent", "year": 1967},
+    		{"name": "Remix de la Dixième Symphonie", "year": 1998},
+    		{"name": "Dracula", "year": 2003}
+    	],
+    	"image": "http://philharmoniedeparis.fr/sites/default/files/styles/fancybox_limit/public/henry_pierre_lea_crespi_2.jpg?itok=KmdvGrcS"
+    },
+    {
+    	"id": 4,
+    	"name": "Pierre Schaeffer",
+    	"genre": "Musique concrète",
+    	"bio": {
+    		"birth": "1910-08-04",
+    		"place": "Nancy"
+    	},
+    	"compositions": [
+    		{"name": "Cinq études de bruits", "year": 1948},
+    		{"name": "Symphonie pour un homme seul", "year": 1951},
+    		{"name": "Étude aux sons animés", "year": 1951}
+    	],
+    	"image": "http://syntone.fr/wp-content/uploads/Pierre-Schaeffer-au-phonogene-a-clavier-1951-%C2%A9-Serge-Lido-INA-1200x1231.jpg"
+    }
+  ]
+}
